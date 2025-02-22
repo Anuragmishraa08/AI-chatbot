@@ -1,1 +1,1 @@
-# AI-chatbot
+# AI-chatbot This project is an interactive AI chatbot developed using HTML, CSS, JavaScript, and powered by Gemini AI. It enables users to engage in basic conversations, with a smooth, responsive interface. The chatbot utilizes the Gemini AI framework for delivering intelligent and human-like interactions. This project serves as a great introduction to AI-based chat systems and frontend web development.
